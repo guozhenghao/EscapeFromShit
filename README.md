@@ -20,6 +20,7 @@
 # 中间件等
 - mysql
 - redis
+- mongo
 - kafka
 - etcd
 - grpc
